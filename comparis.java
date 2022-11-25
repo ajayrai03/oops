@@ -4,6 +4,9 @@ public class comparis {
 
         String a =new String("hello");
         String b=new String("hello");
+        // if(a==b){
+        //     System.out.println("equal");
+        // }
         if(a.equals(b)){
             System.out.println("equal");
         }
